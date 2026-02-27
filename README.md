@@ -1,4 +1,4 @@
-# Kasper et al. (2026) *Diversity-Distributions*
+# Kasper et al. (2026) *Diversity and Distributions*
 "Who’s afraid of the big bad human? Multi-scale niche partitioning among wolves and mesocarnivores in a human-dominated landscape"
 
 > **Katharina Kasper**, Stephanie Kramer-Schadt, Elise Say-Sallaz, Anna J. Kirsch, Monika Gehrke, Paulina A. Szafrańska, Marcin Churski, Maciej Szewczyk, Dries P. J. Kuijper, & **Aimara Planillo** (2026):
