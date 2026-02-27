@@ -11,8 +11,8 @@ Multi-predator communities in anthropogenic landscapes face novel constraints an
 
 ## Data
 
-* predictor_matrix: aggregated camera-trap record counts by camera-trap station and diel phase & PCA-derived environmental gradients
-* response_matrix: aggregated camera-trap record counts by camera-trap station and diel phase
+* predictor_matrix.csv: aggregated species record counts by camera-trap station and diel phase + environmental gradients
+* response_matrix.csv: aggregated species record counts by camera-trap station and diel phase
 * camera_info.csv: camera-trap station coordinates and trapping effort
 * trait.csv: body mass of carnivores, included as a trait in the model
 
